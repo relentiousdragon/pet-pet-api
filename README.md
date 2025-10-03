@@ -11,4 +11,4 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/relentiousdragon/pet-pet-api.git
 cd pet-pet-api
-npm install
+npm install express axios canvas gif-encoder-2 express-rate-limit
